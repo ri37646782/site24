@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: LightSkyBlue;
+    padding: 10px;
+    color: darkblue;
+}
+
+header a {
+    text-decoration: none;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: BlueViolet;
+}
+
+footer {
+    background-color: palevioletred;
+}
+
+footer p {
+    background-color: white;
+    margin: 10px;
+    padding: 3px;
+}
+
+nav {
+    background-color: LimeGreen;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    margin: 45px;
+}
+
+select {
+    padding: 5px;
+}
+
+.crutoi {
+    border: 3px solid darkblue;
+    padding: 7px;
+    border-radius: 15px;
+}
+
+h2 {
+    color: blue;
+}
+
+.tururu {
+    color: darkblue;
+    text-decoration: none;
+    border: 3px solid darkblue;
+    padding: 5px;
+}
+
+.mmm {
+    color: darkblue;
+    text-decoration: none;
+    border: 3px solid darkblue;
+    padding: 5px;
+}
